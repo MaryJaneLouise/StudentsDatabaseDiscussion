@@ -176,8 +176,8 @@
     <Content Include="Content\Site.css" />
     <Content Include="Models\StudentModel.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
-      <LastGenOutput>StudentModel.Context.cs</LastGenOutput>
       <DependentUpon>StudentModel.edmx</DependentUpon>
+      <LastGenOutput>StudentModel.Context.cs</LastGenOutput>
     </Content>
     <Content Include="Models\StudentModel.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
